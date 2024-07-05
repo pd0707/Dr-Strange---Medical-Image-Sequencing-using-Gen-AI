@@ -14,7 +14,7 @@ The project aims to bridge healthcare gaps by predicting disease progression usi
 
 * The following architecture is the model architecture of the project.
 
-![Alt text](./Docs/SystemArchitecture_drawio.png?raw=true "Title")
+![Alt text](.Images/Systemarchitecturediagram.png?raw=true "Title")
 
 ### Dependencies
 
