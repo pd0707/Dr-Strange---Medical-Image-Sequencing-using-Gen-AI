@@ -7,7 +7,7 @@ The project aims to bridge healthcare gaps by predicting disease progression usi
 ### System Dataflow
 * The below picture depicts the project's dataflow step by step.
 
-![Alt text](.Images/Dataconditioningdiagram.png?raw=true "Title")
+![Alt text](./Images/Dataconditioningdiagram.png?raw=true "Title")
 
 
 ### System Architecture
