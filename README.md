@@ -14,16 +14,16 @@ The project aims to bridge healthcare gaps by predicting disease progression usi
 
 * The following architecture is the model architecture of the project.
 
-![Alt text](.Images/Systemarchitecturediagram.png?raw=true "Title")
+![Alt text](./Images/Systemarchitecturediagram.png?raw=true "Title")
 
 ### Dependencies
 
-* Using a CPU can take a lot of time to train the model. So, use GPU with configuration: 40 GB and 16 cores.
+* Using a CPU can take much time to train the model. Use GPU with configuration: 40 GB and 16 cores.
 * Use the pre-trained Vit as mentioned in the above system architecture.
 
 ### Help
 
-* Replace the datsets source path in the code with your respective path.
+* Replace the dataset source path in the code with your respective path.
 
 ### Installing
 
